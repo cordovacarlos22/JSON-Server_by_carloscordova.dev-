@@ -3,8 +3,8 @@
 El objetivo es crear un mock de una API Rest de eCommerce que haga uso de autenticación con JWT y cuente con algunas rutas protegidas.
 
 Para usarlo:
-1) Haz git clone del repositorio: `git clone https://github.com/warderer/json-server-jwt.git`
-2) Desde la terminal, recuerda entrar a la carpeta del proyecto: `cd json-server-jwt`
+1) Haz git clone del repositorio: `git clone https://github.com/cordovacarlos22/JSON-Server_by_carloscordova.dev-.git`
+2) Desde la terminal, recuerda entrar a la carpeta del proyecto: `cd JSON-Server_by_carloscordova.dev-`
 3) Instala las dependencias con el comando: `npm install`
 4) Ejecuta el servidor con el comando: `npm run start`
 
