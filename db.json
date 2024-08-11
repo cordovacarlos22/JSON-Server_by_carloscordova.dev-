@@ -86,7 +86,7 @@
       "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534615_sd.jpg;maxHeight=166;maxWidth=550"
     },
     {
-      "isActive": true,
+      "isActive": false,
       "id": "3e01c801-35d1-4769-9265-6d4ff5064e81",
       "product_name": "Apple - MacBook Pro 14 Laptop - M3 Pro chip - 18GB Memory - 14-core GPU - 512GB SSD - Space Black",
       "description": "The 14-inch MacBook Pro blasts forward with M3 Pro and M3 Max, radically advanced chips that drive even greater performance for more demanding workflows. With industry-leading battery life—up to 18 hours—and a beautiful Liquid Retina XDR display, it’s a pro laptop without equal. Now in a new color: Space Black.",
