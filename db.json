@@ -21,78 +21,9 @@
       "role": "ADMIN",
       "createdAt": 1674323738966,
       "updatedAt": 1674323738966
-    },
-    {
-      "id": "a7d3ef6b-3571-44ba-afdf-347bd670ed6d",
-      "createdAt": 1723134114749,
-      "updatedAt": 1723134114749
     }
   ],
   "items": [
-    {
-      "isActive": true,
-      "id": "415fd6c8-5e42-432a-93cc-bde923fe9860",
-      "product_name": "Apple - AirPods Pro (2nd generation) with MagSafe Case (USB‑C) - White",
-      "description": "AirPods Pro (2nd generation) with USB-C deliver up to 2x more Active Noise Cancellation than the previous generation, with Transparency mode that enables you to hear the world around you, and all-new Adaptive Audio that dynamically tailors noise control to your environment.",
-      "price": 189.99,
-      "category": "audio",
-      "brand": "Apple",
-      "sku": "6447382",
-      "createdAt": 1723145934188,
-      "updatedAt": 1723145934188,
-      "__v": 0,
-      "image": [
-        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382cv12d.jpg;maxHeight=166;maxWidth=214"
-      ]
-    },
-    {
-      "isActive": true,
-      "id": "6619a777-25c0-4079-979e-56a371b6f6fd",
-      "product_name": "Apple - AirPods (3rd generation) with Lightning Charging Case - White",
-      "description": "AirPods (3rd generation) feature Personalized Spatial Audio that places sound all around you,¹ as well as longer battery life.² It’s sweat and water resistant and delivers an experience that’s simply magical.",
-      "price": 139.99,
-      "category": "audio",
-      "brand": "Apple",
-      "sku": "6376551",
-      "createdAt": 1723146130481,
-      "updatedAt": 1723146130481,
-      "__v": 0,
-      "image": [
-        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6376/6376551_sd.jpg;maxHeight=166;maxWidth=214q"
-      ]
-    },
-    {
-      "isActive": true,
-      "id": "afd040cb-b8c8-4f15-8e40-8c8e2dad01e3",
-      "product_name": "Apple - MacBook Air 13.6 Laptop - M2 chip - 8GB Memory - 256GB SSD - Midnight",
-      "description": "Supercharged by the next-generation M2 chip, the redesigned MacBook Air combines incredible performance and up to 18 hours of battery life into its strikingly thin aluminum enclosure.",
-      "price": 799,
-      "category": "laptops",
-      "brand": "Apple",
-      "sku": "6509650",
-      "createdAt": 1723146285993,
-      "updatedAt": 1723146285993,
-      "__v": 0,
-      "image": [
-        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6509/6509650_sd.jpg;maxHeight=166;maxWidth=214q"
-      ]
-    },
-    {
-      "isActive": true,
-      "id": "c306e4a2-42bf-465e-956a-fbcc14c797f7",
-      "product_name": "Apple - MacBook Pro 14 Laptop - M3 Pro chip - 18GB Memory - 14-core GPU - 512GB SSD - Space Black",
-      "description": "The 14-inch MacBook Pro blasts forward with M3 Pro and M3 Max, radically advanced chips that drive even greater performance for more demanding workflows. With industry-leading battery life—up to 18 hours—and a beautiful Liquid Retina XDR display, it’s a pro laptop without equal. Now in a new color: Space Black.",
-      "price": 1166,
-      "category": "laptops",
-      "brand": "Apple",
-      "sku": "6534615",
-      "createdAt": 1723146466735,
-      "updatedAt": 1723146466735,
-      "__v": 0,
-      "image": [
-        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534615_sd.jpg;maxHeight=166;maxWidth=550"
-      ]
-    },
     {
       "isActive": true,
       "id": "3e01c801-35d1-4769-9265-6d4ff5064e81",
@@ -106,8 +37,8 @@
       "updatedAt": 1723394133255,
       "__v": 0,
       "image": [
-        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534615_sd.jpg;maxHeight=640;maxWidth=550",
-        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534641cv11d.jpg;maxHeight=640;maxWidth=550"
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534615_sd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534641cv11d.jpg;maxHeight=140;maxWidth=550"
       ]
     }
   ]
