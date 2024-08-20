@@ -40,6 +40,75 @@
         "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534615_sd.jpg;maxHeight=140;maxWidth=550",
         "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534641cv11d.jpg;maxHeight=140;maxWidth=550"
       ]
+    },
+    {
+      "isActive": true,
+      "sku": "6565837",
+      "brand": "apple",
+      "category": "laptops",
+      "price": 849,
+      "description": "The M3 chip brings even greater capabilities to the superportable 13-inch MacBook Air. With up to 18 hours of battery life, you can take it anywhere and blaze through work and play. ",
+      "product_name": "Apple - MacBook Air 13-inch Laptop - M3 chip - 8GB Memory - 256GB SSD - Midnight",
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6565/6565837_sd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6565/6565837cv11d.jpg;maxHeight140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6565/6565837cv12d.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6565/6565837cv13d.jpg;maxHeight=140;maxWidth=550"
+      ],
+      "id": "3e482c22-2c20-4583-b3ae-e7cbcdf4ec16",
+      "createdAt": 1724163632373,
+      "updatedAt": 1724163632373
+    },
+    {
+      "sku": "6571369",
+      "brand": "lenovo",
+      "category": "laptops",
+      "price": 680,
+      "description": "It’s inspiration all around with the Lenovo Yoga 7i 2-in-1, delivering 360° of flexibility, impressive performance, and ultra-immersive audio-visuals. Primed with creating power from up to the latest Intel Core Ultra processor, you can unleash greatness in every way. The larger 16” 16:10 WUXGA display makes entertainment and creative projects come to life like never before. All that with a fast-charging battery and all the ports you need, it's your art studio, home office, and cinema all in one. ",
+      "product_name": "Lenovo - Yoga 7i 2-in-1 16\" 2K Touchscreen Laptop - Intel Core Ultra 7 155U with 16GB Memory - 1TB SSD - Storm Grey",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6571/6571369_sd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6571/6571369_rd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6571/6571369ld.jpg;maxHeight=140;maxWidth=550"
+      ],
+      "id": "ba2f3420-a410-4c88-ae35-ef3f3a3abcf7",
+      "createdAt": 1724164799880,
+      "updatedAt": 1724164799880
+    },
+    {
+      "sku": "6572184",
+      "brand": "samgung",
+      "category": "laptops",
+      "price": 550,
+      "description": "Get a little more out of your everyday with Galaxy Book4. This laptop delivers on all the top features you need with the premium design you want. The gorgeous display, ample processing power and seamless connectivity with your other Galaxy devices make your next laptop choice a no brainer. Powered by the latest Intel Core processor and a long lasting battery, this laptop allows you to stay on top of your inbox, listen to your favorite music and check in on what your friends are up to on social media. Need more storage? You’re in luck! You can expand your storage up to 2TB with a microSD card, so this laptop will support your needs no matter what you decide to take on next. Enjoy browsing the web or streaming video on the gorgeous full HD display that will be sure to spark screen envy wherever you go. And you’ll see every detail of that new movie you’ve been looking forward to on the large 15.6\" screen. Plus, you can easily sync with your other Galaxy devices to create a seamlessly connected and aesthetically pleasing premium Galaxy ecosystem. Power and premium design to elevate your world that’s Galaxy Book4. ",
+      "product_name": "Samsung - Galaxy Book4 15.6\" FHD Laptop - Intel Core 7- 16GB Memory - 512GB SSD - Silver",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6572/6572184cv21d.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6572/6572184cv11d.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6572/6572184_sd.jpg;maxHeight=140;maxWidth=550"
+      ],
+      "id": "78960f10-8317-44ec-b6c7-1acd33867f73",
+      "createdAt": 1724164958677,
+      "updatedAt": 1724164958677
+    },
+    {
+      "sku": "6533835",
+      "brand": "samsung",
+      "category": "tv",
+      "price": 1298,
+      "description": "Some TVs just have it. They make everything look good—even hard stuff like 4K upscaling, weird viewing angles and daytime sports. Among the gifted their talents still shine bright. But when it’s Samsung Neo QLED 4K we’re talking about, there’s no need to be jealous. Because—thanks to its brilliant picture, dynamic audio and stellar design—it’ll make you look good, too. ",
+      "product_name": "Samsung - 65\" Class QN90C Neo QLED 4K UHD Smart Tizen TV (2023)",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6533/6533835cv13d.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6533/6533835cv11d.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6533/6533835_sd.jpg;maxHeight=140;maxWidth=550"
+      ],
+      "id": "7ca82d73-43f3-444d-b35c-0e95a7d300d1",
+      "createdAt": 1724165530240,
+      "updatedAt": 1724165530240
     }
   ]
 }
