@@ -109,6 +109,58 @@
       "id": "7ca82d73-43f3-444d-b35c-0e95a7d300d1",
       "createdAt": 1724165530240,
       "updatedAt": 1724165530240
+    },
+    {
+      "sku": "6203900",
+      "brand": "insignia",
+      "category": "appliances",
+      "price": 150,
+      "description": "Reduce your electric bill with this Insignia 3.0 Cu. Ft. Mini Fridge with Top Freezer. This Energy Star-certified refrigerator provides 3 cu. ft. of storage space without using a lot of energy. Measuring only 19.1 inches wide, this compact unit is perfect for apartment kitchens and other tight spaces. This Insignia 3.0 Cu. Ft. Mini Fridge with Top Freezer is a great option for storing weekly produce, meats and frozen goods. ",
+      "product_name": "Insignia™ - 3.0 Cu. Ft. Mini Fridge with Top Freezer and ENERGY STAR Certification - Stainless Steel",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6203/6203900_sd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6203/6203900cv18d.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6203/6203900_sd.jpg;maxHeight=140;maxWidth=550"
+      ],
+      "id": "2ac8ad57-e5f9-4a76-8ab1-5d033f8af933",
+      "createdAt": 1724189124124,
+      "updatedAt": 1724189124124
+    },
+    {
+      "sku": "6566040",
+      "brand": "Sony",
+      "category": "video games",
+      "price": 450,
+      "description": "Vertical stand not included. The PS5 Digital Edition unleashes new gaming possibilities that you never anticipated. PS5 Digital Edition is an all-digital version of the PS5 console with no disc drive. Sign into your account for PlayStation Network and go to PlayStation Store to buy and download games. 2 *PS5 Digital Edition (CFI-2000 model group – slim) 2Account for PlayStation Network required. Full terms apply – playstation.com/PSNTerms.. ",
+      "product_name": "Sony - PlayStation 5 Slim Console Digital Edition - White",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6566/6566040_sd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6566/6566040_rd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6566/6566040ld.jpg;maxHeight=140;maxWidth=550"
+      ],
+      "id": "eef70a31-b33b-4833-9e0d-9b3dd560dd31",
+      "createdAt": 1724189253647,
+      "updatedAt": 1724189253647
+    },
+    {
+      "sku": "6523167",
+      "brand": "Sony",
+      "category": "video games",
+      "price": 450,
+      "description": "Vertical stand not included. Swing your way through Marvel’s New York with the PlayStation 5 Console (Model group slim) – Marvel’s Spider-Man 2 Bundle. Experience Marvel’s Spider-Man 2 with PS5 innovations. Feel the force of web-swinging with adaptive triggers, while haptic feedback responds to Peter Parker’s new symbiote abilities and Miles Morales’ evolved bio-electric skills. ",
+      "product_name": "Sony - PlayStation 5 Console - White",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6565/6565065_sd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6523/6523167_sd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6523/6523167_rd.jpg;maxHeight=140;maxWidth=550",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6523/6523167cv12d.jpg;maxHeight=140;maxWidth=550"
+      ],
+      "id": "86417a20-5df5-4b5a-b427-65a86bcb722c",
+      "createdAt": 1724189438902,
+      "updatedAt": 1724189438902
     }
   ]
 }
