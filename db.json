@@ -413,6 +413,328 @@
       "id": "f6f9c7da-b9b4-4555-b75d-c8bfe29e2fe9",
       "createdAt": 1724808118429,
       "updatedAt": 1724808118429
+    },
+    {
+      "sku": "6525501",
+      "brand": "apple",
+      "category": "cellphones",
+      "price": 1600,
+      "description": "iPhone 15 Pro Max. Forged in titanium and featuring the groundbreaking A17 Pro chip, a customizable Action button, and the most powerful iPhone camera system ever. ",
+      "product_name": "Apple - iPhone 15 Pro Max 1TB - Blue Titanium",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525501_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525501cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525501cv12d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "a0b07682-48b0-4206-8dbd-3e6ec27325b0",
+      "createdAt": 1724854135332,
+      "updatedAt": 1724854135332
+    },
+    {
+      "sku": "6525393",
+      "brand": "apple",
+      "category": "cellphones",
+      "price": 1029,
+      "description": "Phone 15 Plus brings you Dynamic Island, a 48MP Main camera, and USB-C—all in a durable color-infused glass and aluminum design.",
+      "product_name": "Apple - iPhone 15 Plus 256GB - Pink ",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525393_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525393cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525393cv12d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "248248fe-e717-4aa1-8ae6-e074756c466c",
+      "createdAt": 1724854226956,
+      "updatedAt": 1724854226956
+    },
+    {
+      "sku": "6418065",
+      "brand": "apple",
+      "category": "cellphones",
+      "price": 829,
+      "description": "iPhone 14 Plus. Think big with a larger 6.7-inch display¹ and all-day battery life.² Capture stunning photos in low light and bright light with the new dual-camera system. Get peace of mind with groundbreaking safety features. ",
+      "product_name": "Apple - iPhone 14 Plus 128GB - Yellow ",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6418/6418065_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6418/6418065_rd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6418/6418065ld.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "d27cae9c-251b-4c9d-a2e3-068502ce8778",
+      "createdAt": 1724854379683,
+      "updatedAt": 1724854379683
+    },
+    {
+      "sku": "6570290",
+      "brand": "samsung",
+      "category": "cellphones",
+      "price": 699,
+      "description": "Plus up your day with Galaxy AI on Galaxy S24+. Wonder where your favorite influencer got their shoes? Simply Circle to Search with Google to see where you can buy your own pair. Then, snap a photo to show off your new kicks and elevate your pic from good to great on the Galaxy S24+. Before you head out in style, call up that new authentic Japanese restaurant to make a reservation and impress the staff as you use Live Translate to speak their language in real time. And, with our powerful processor, you can smoothly switch between texting friends, taking photos of your food and searching for your next culinary adventure. Life just got a whole lot easier and a lot more fun. Epic, just like that. ",
+      "product_name": "Samsung - Galaxy S24+ 256GB (Unlocked) - Cobalt Violet",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6570/6570290_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6570/6570290cv11d.jpg;maxHeight=140;maxWidth=550;format=webphttps://pisces.bbystatic.com/image2/BestBuy_US/images/products/a630fc6e-0e06-4736-adfc-67f91d4bd4fd.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "a8f72fa8-6c95-45e6-883a-abe111f65124",
+      "createdAt": 1724854479759,
+      "updatedAt": 1724854479759
+    },
+    {
+      "sku": "6570299",
+      "brand": "samsung",
+      "category": "cellphones",
+      "price": 999,
+      "description": "Do more with Galaxy AI on the epic Galaxy S24 Ultra. Wondering where the cool museum that your favorite influencer visited is located? Simply Circle to Search with Google and start planning your own trip to the Louvre. Then get ready to experience local flavors by calling ahead with Live Translate to make a reservation in French, even if all you know is “Bonjour.” Capture every detail of your candlelight meal with impressive Nightography and zoom in to see the live violinist playing across the room. Once you’re back in your hotel, elevate your pics from good to great right on your Galaxy S24 Ultra. You can even use your built in S Pen to add fun doodles before posting. Unleash new ways to create, connect and more with Galaxy AI on Galaxy S24 Ultra. Epic, just like that. ",
+      "product_name": "Samsung - Galaxy S24 Ultra 256GB (Unlocked) - Titanium Gray",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6570/6570299_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6569/6569855cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/fbbe3462-7c68-4b56-96ca-258c133e17a4.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "acc64183-a640-45d5-a95a-81c0521b39d3",
+      "createdAt": 1724854607776,
+      "updatedAt": 1724854607776
+    },
+    {
+      "sku": "6586750",
+      "brand": "samsung",
+      "category": "cellphones",
+      "price": 1899,
+      "description": "Do more than ever before with the game changing power of Galaxy AI on the expansive screen of Galaxy Z Fold6. Use Circle to Search with Google to find things fast now optimized for the oversized display so you can keep multiple windows open while you search. Get easy translations for face to face conversations using Interpreter with Galaxy AI in FlexMode, where you can see your language on one side of the screen and they can see theirs on the other. Plus, the large canvas is perfect for viewing in depth health tracking and insights from a paired Galaxy Watch or Galaxy Ring. Experience the extraordinary with Galaxy Z Fold6 the tablet like phone that lets you open up new possibilities with Galaxy AI . ",
+      "product_name": "Samsung - Galaxy Z Fold6 256GB (Unlocked) - Silver Shadow",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6586/6586750_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6586/6586750cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6586/6586750cv12d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "1f8d119e-0979-4d36-9690-b33a0e1a043e",
+      "createdAt": 1724854688053,
+      "updatedAt": 1724854688053
+    },
+    {
+      "sku": "6587819",
+      "brand": "google",
+      "category": "cellphones",
+      "price": 799,
+      "description": "Meet Pixel 9 with Gemini. Engineered by Google, Pixel gets the best of Google’s AI first. So you can take amazing photos, make edits like magic, and get things done even easier. Pixel can protect against spam and other threats. It helps you in an emergency.10 And it’s built to last. ",
+      "product_name": "Google - Pixel 9 128GB (Unlocked) - Obsidian",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/69d6984c-f687-4dc4-ba00-292c9ce2828b.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e8ffd85f-cc8a-4cd9-8eae-172d2f2e2206.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/014084cb-ea08-45da-87a3-b7357d93c85c.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "b334f626-cdfa-4b05-bf00-59d1df1de088",
+      "createdAt": 1724854765326,
+      "updatedAt": 1724854765326
+    },
+    {
+      "sku": "6559236",
+      "brand": "google",
+      "category": "cellphones",
+      "price": 549,
+      "description": "Meet Pixel 8. The helpful phone engineered by Google, with an amazing camera, powerful security, and an all-day battery. [1] With Google AI, you can do more, even faster – like fix photos, screen calls, and get answers. [2] And Pixel 8 has personal safety features for added peace of mind. [3] ",
+      "product_name": " Google - Pixel 8 128GB (Unlocked) - Obsidian",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6559/6559236_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6559/6559236_rd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6559/6559236ld.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "45559554-7033-48cf-86d8-1afdb87ce4f5",
+      "createdAt": 1724854859247,
+      "updatedAt": 1724854859247
+    },
+    {
+      "sku": "6280556",
+      "brand": "bose",
+      "category": "audio",
+      "price": 399,
+      "description": "Bose Surround Speakers take spaciousness to a whole new level. Add these wireless surround sound speakers to the Bose Soundbar 500 or Soundbar 700 smart speakers and feel what it's like to be in the middle of what you listen to or watch. At 4\" tall, these small speakers are designed to blend seamlessly into your room or home theater. ",
+      "product_name": "Bose - Surround Speakers 120-Watt Wireless Home Theater Speakers (Pair) - Black",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6280/6280556_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6280/6280556cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6280/6280556cv12d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "9b00c1d9-7f29-4cbc-9983-1ffc37c7d748",
+      "createdAt": 1724855054126,
+      "updatedAt": 1724855054126
+    },
+    {
+      "sku": "6506474",
+      "brand": "Sonos",
+      "category": "audio",
+      "price": 189,
+      "description": "Upgrade your TV, music, and gaming experiences with this impressively compact and easy-to-use soundbar. Experience precisely balanced sound, including crisp dialogue and solid bass, plus streamlined control with your TV remote, the Sonos app, Apple AirPlay 2, and more. ",
+      "product_name": "Sonos - Ray Soundbar with Wi-Fi - Black",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6506/6506474_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6506/6506474_rd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6506/6506474ld.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "1cceca1a-4116-46fe-9e1a-6bf3a88b4e2c",
+      "createdAt": 1724855139901,
+      "updatedAt": 1724855139901
+    },
+    {
+      "sku": "6548312",
+      "brand": "MartinLogan",
+      "category": "audio",
+      "price": 749,
+      "description": "MartinLogan Foundation Series products redefine affordability by incorporating many of MartinLogan's renowned high-performance technologies at accessible prices. Leveraging 40 years of design and engineering prowess and offering MartinLogan’s renowned thin-film performance, Motion Foundation is a gateway into the world of true hi-fi sound. With a choice of 5 different models in 3 different finishes, Motion Foundation speakers are an ideal foundation for building a high performance Stereo or Surround sound system. Bringing high end performance to a wider audience, Motion Foundation offers incredible immersion for all your favorite content. Motion Foundation speakers feature the incredible performance of the Gen2 FMT S, bringing much of the same performance found in our/their larger siblings, in a more compact and affordable package. This high-performance tweeter is paired with a custom Folded Motion Waveguide offering consistent, smooth, and controlled sound across the listening space delivering incredible performance in every seat while also reducing some of the harmful effects of room acoustics. Rounding out the sound are specially designed aluminum woofers for both the midrange and bass drivers offering robust and detailed performance across the board. Motion Foundation models are available in 3 elegant finishes to compliment any decor: Black, Satin White, and Walnut. ",
+      "product_name": "MartinLogan - Motion Foundation F1 3-Way Floorstanding Speaker with 5.5” Midrange and Triple 5.5” Bass Drivers (Each) - Black",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6548/6548312_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6548/6548312_rd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6548/6548312ld.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "ef77f44a-3d37-475e-ba32-d4b6a71afbee",
+      "createdAt": 1724855228172,
+      "updatedAt": 1724855228172
+    },
+    {
+      "sku": "6537780",
+      "brand": "LG",
+      "category": "audio",
+      "price": 699,
+      "description": "Meet The Perfect Match For The LG OLED evo C Series TV. Level up to the most immersive listening experience. Introducing the LG Sound Bar C, the sound bar that packs a punch and the first of its kind to feature IMAX ENHANCED¹ and triple up-firing height channels with Dolby Atmos² and DTS:X.¹ Elevate both sight and sound with the LG OLED Synergy Bracket that perfectly matches the LG OLED evo C Series TV. It's also WOWCAST ready so you can skip the wires and enjoy the power of Dolby Atmos² without any sound lag or loss. ",
+      "product_name": "LG - 3.1.3 Channel SC9S Soundbar with Wireless Subwoofer, Dolby Atmos-Black",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6537/6537780cv37d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6537/6537780ld.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6537/6537780cv19d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "2d06c4b3-48a7-4815-9e70-f51b5e509fb7",
+      "createdAt": 1724855334036,
+      "updatedAt": 1724855334036
+    },
+    {
+      "sku": "6447382",
+      "brand": "apple",
+      "category": "audio",
+      "price": 249,
+      "description": " Apple - AirPods Pro (2nd generation) with MagSafe Case (USB‑C) - White User rating, 4.8 out of 5 stars with 15559 reviews. 4.8 (15,559 Reviews) AirPods Pro (2nd generation) with USB-C deliver up to 2x more Active Noise Cancellation than the previous generation, with Transparency mode that enables you to hear the world around you, and all-new Adaptive Audio that dynamically tailors noise control to your environment. Conversation Awareness helps lower media volume and enhance the voices in front of you while you’re interacting with others. A single charge delivers up to 6 hours of battery life. And Touch control lets you easily adjust volume with a swipe. The MagSafe Charging Case is a marvel on its own with Precision Finding, built-in speaker, and lanyard loop. ",
+      "product_name": "Apple - AirPods Pro (2nd generation) with MagSafe Case (USB‑C) - White",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382cv12d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "8055c2ac-53b1-4240-b80b-88a026a6a98c",
+      "createdAt": 1724855416530,
+      "updatedAt": 1724855416530
+    },
+    {
+      "sku": "6525171",
+      "brand": "apple",
+      "category": "audio",
+      "price": 89,
+      "description": "Certified Refurbished products are thoroughly, painstakingly and lovingly tested, so you can be sure that your device will work right, right away. AirPods (3rd generation) feature Personalized Spatial Audio that places sound all around you,¹ as well as longer battery life.² It’s sweat and water resistant and delivers an experience that’s simply magical.³ ",
+      "product_name": "Apple - Geek Squad Certified Refurbished AirPods (3rd generation) with Lightning Charging Case - White",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525171_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525171cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525171cv13d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "8b4753a9-7f6d-4eb6-991e-d920bdc0ca57",
+      "createdAt": 1724855484762,
+      "updatedAt": 1724855484762
+    },
+    {
+      "sku": "6397391",
+      "brand": "Beats",
+      "category": "audio",
+      "price": 199,
+      "description": "True wireless noise cancelling Beats Fit Pro with comfortable, secure-fit wingtips are engineered for all-day activity. The flexible wingtip design conforms to your ear to comfortably lock in place so you can experience powerful, balanced sound during your work day or your workouts. With two distinct listening modes, you are in control of what you hear. Fully adaptive Active Noise Cancelling (ANC) uses real-time audio calibration to continuously pinpoint external sounds and optimize sound output, and when you need to be aware of your surroundings, easily switch to Transparency mode. Beats Fit Pro supports Spatial Audio with dynamic head tracking for immersive music, movies, and games.¹ These earbuds are powered by the Apple H1 chip. The result — instant one-touch pairing², Automatic Switching³, Audio Sharing&#8309, and hands-free “Hey Siri”&#8308 for Apple devices. For Android users, easily connect via Class 1 Bluetooth® right out of the box. With the Beats app for Android¹¹, you’ll get enhanced features like one-touch pairing, customized controls, battery levels, firmware updates, and a Fit Test to help you get the best sound and fit out of your earbuds. Each earbud has up to 6 hours of listening time⁶ with 18 additional hours⁷ provided by its matching, pocket-sized charging case to give you up to 24 hours of combined playback. ",
+      "product_name": "Beats Fit Pro True Wireless Noise Cancelling In-Ear Earbuds - Black",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6397/6397391_rd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6397/6397391cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6397/6397391cv12d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "f7c9c1e0-fc08-4455-bce8-68bc4d1a8e44",
+      "createdAt": 1724855568170,
+      "updatedAt": 1724855568170
+    },
+    {
+      "sku": "6501022",
+      "brand": "Beats",
+      "category": "audio",
+      "price": 149,
+      "description": "The original go-to wireless headphones for active music lovers are back — and better than ever. Designed to stay in place and get you moving with powerful sound, Beats Solo 4 on-ear Bluetooth headphones have been re-engineered for incredible, high-fidelity acoustics, now featuring Personalized Spatial Audio with dynamic head tracking for truly immersive listening. ",
+      "product_name": "Beats Solo 4 True Wireless On-Ear Headphones - Cloud Pink",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501022_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501022_rd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501022ld.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "99193423-8ff2-406e-8608-d640d26ef75f",
+      "createdAt": 1724855642948,
+      "updatedAt": 1724855642948
+    },
+    {
+      "sku": "6470923",
+      "brand": "nintendo",
+      "category": "video games",
+      "price": 399,
+      "description": " Nintendo - Switch – OLED Model w/Joy-Con - White User rating, 4.9 out of 5 stars with 12580 reviews. 4.9 (12,580 Reviews) Play at home or on the go with a vibrant OLED screen. Play on your TV at home or pick up and play in handheld mode on a vivid 7-inch OLED screen with the Nintendo Switch – OLED Model system. The system also features 64 GB of internal storage, enhanced audio, a wide, adjustable stand, and a dock with a wired LAN port. Enjoy three modes in one system. TV mode: Connect your system to the TV using the included dock to enjoy a traditional gaming experience in HD. Handheld mode: Bring your games on your next travel adventure and enjoy playing on a 7-inch OLED screen that makes colors pop. Tabletop mode: Use the wide, adjustable stand to position the screen and detach the included Joy-Con controllers to enjoy game time even without a TV. Games for the whole family. Nintendo Switch systems are the home of games like Super Mario Bros. Wonder, Mario Kart 8 Deluxe, and others starring Mario and friends. And don’t forget series like Animal Crossing, The Legend of Zelda, Splatoon, Pikmin, and more! Connect and play together. Share the smiles! You can buddy up on one system, play online, or even link your systems together wherever you are for multiplayer favorites like the Super Smash Bros. Ultimate game. Joy-Con controllers included. The two included Joy-Con controllers let you play multiplayer games right out of the box—just pass one to a friend and go. Attach them to the screen for handheld mode or use both as a single controller when you play on the big screen. Plus, built-in motion controls really put you in the game in titles like Super Mario Party. ",
+      "product_name": " Nintendo - Switch – OLED Model w/Joy-Con - White",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6470/6470923_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6470/6470923cv12d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6470/6470923cv11d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "93ebc6a7-c88c-4854-9c75-7862834c92e9",
+      "createdAt": 1724855856602,
+      "updatedAt": 1724855856602
+    },
+    {
+      "sku": "6257148",
+      "brand": "nintendo",
+      "category": "video games",
+      "price": 199,
+      "description": "Dedicated to portable play. The Nintendo Switch Lite system is a lightweight, compact, and designed exclusively for handheld play. Bring it along and enjoy a little “me time” wherever you happen to be, whether you’re on the road or in your own backyard! Games for the whole family. Nintendo Switch systems are the home of games like Super Mario Bros. Wonder, Mario Kart 8 Deluxe, and others starring Mario and friends. And don’t forget series like Animal Crossing, The Legend of Zelda, Splatoon, Pikmin, and more! Connect and play together. Share the smiles! Play online with friends or connect Nintendo Switch Lite with any other Nintendo Switch models via local wireless for multiplayer favorites like the Super Smash Bros. Ultimate game. ",
+      "product_name": "Nintendo - Switch 32GB Lite - Coral",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6257/6257148_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6257/6257148cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6257/6257148cv12d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "54bacd81-8e26-445e-bc30-745a139bfa9a",
+      "createdAt": 1724855916641,
+      "updatedAt": 1724855916641
+    },
+    {
+      "sku": "6428324",
+      "brand": "Microsoft",
+      "category": "video games",
+      "price": 499,
+      "description": "Xbox Series X, the fastest, most powerful Xbox ever. Explore rich new worlds with 12 teraflops of raw graphic processing power, DirectX ray tracing, a custom SSD, and 4K gaming. Make the most of every gaming minute with Quick Resume, lightning-fast load times, and gameplay of up to 120 FPS—all powered by Xbox Velocity Architecture. Enjoy thousands of games from four generations of Xbox, with hundreds of optimized titles that look and play better than ever. Get the most out of your Xbox Series X with Xbox Game Pass Ultimate (membership sold separately) and be the first to play new games like Starfield and Forza Motorsport on day one. Plus, enjoy hundreds of games like Minecraft Legends, Halo Infinite, and Forza Horizon 5 with friends on console, PC, and cloud. With games added all the time, there’s always something new to play. ",
+      "product_name": "Microsoft - Xbox Series X 1TB Console - Carbon Black",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6428/6428324cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6428/6428324_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6428/6428324cv12d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "83bb5e3a-7ebc-4328-b991-e470601cb04d",
+      "createdAt": 1724856006057,
+      "updatedAt": 1724856006057
     }
   ]
 }
