@@ -373,8 +373,8 @@
       "isActive": true,
       "image": [
         "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6576/6576678_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
-        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6576/6576678_rd.jpg;maxHeight=140;maxWidth=550;format=webp"
-        ,"`https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6576/6576678ld.jpg;maxHeight=140;maxWidth=550;format=webp"
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6576/6576678_rd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "`https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6576/6576678ld.jpg;maxHeight=140;maxWidth=550;format=webp"
       ],
       "id": "f8f28a8e-03ed-4621-b403-5a71bae6a24d",
       "createdAt": 1724470136508,
@@ -396,6 +396,23 @@
       "id": "0c7b33fa-10c7-4fd4-8702-d2a1ade1f79e",
       "createdAt": 1724470308726,
       "updatedAt": 1724470308726
+    },
+    {
+      "sku": "6525415",
+      "brand": "apple",
+      "category": "cellphones",
+      "price": 1200,
+      "description": "iPhone 15 Pro. Forged in titanium and featuring the groundbreaking A17 Pro chip, a customizable Action button, and a more versatile Pro camera system. ",
+      "product_name": "Apple - iPhone 15 Pro 512GB - Natural Titanium",
+      "isActive": true,
+      "image": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525415_sd.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525415cv11d.jpg;maxHeight=140;maxWidth=550;format=webp",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525415cv12d.jpg;maxHeight=140;maxWidth=550;format=webp"
+      ],
+      "id": "f6f9c7da-b9b4-4555-b75d-c8bfe29e2fe9",
+      "createdAt": 1724808118429,
+      "updatedAt": 1724808118429
     }
   ]
 }
